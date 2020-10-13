@@ -1,0 +1,12 @@
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\bin\Debug\netcoreapp2.0\performancemessagereceiver.deps.json
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\bin\Debug\netcoreapp2.0\performancemessagereceiver.runtimeconfig.json
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\bin\Debug\netcoreapp2.0\performancemessagereceiver.runtimeconfig.dev.json
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\bin\Debug\netcoreapp2.0\performancemessagereceiver.dll
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\bin\Debug\netcoreapp2.0\performancemessagereceiver.pdb
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\obj\Debug\netcoreapp2.0\performancemessagereceiver.csprojAssemblyReference.cache
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\obj\Debug\netcoreapp2.0\performancemessagereceiver.AssemblyInfoInputs.cache
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\obj\Debug\netcoreapp2.0\performancemessagereceiver.AssemblyInfo.cs
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\obj\Debug\netcoreapp2.0\performancemessagereceiver.csproj.CoreCompileInputs.cache
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\obj\Debug\netcoreapp2.0\performancemessagereceiver.dll
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\obj\Debug\netcoreapp2.0\performancemessagereceiver.pdb
+C:\CODE\AzureServiceBusDemo\performancemessagereceiver\obj\Debug\netcoreapp2.0\performancemessagereceiver.genruntimeconfig.cache

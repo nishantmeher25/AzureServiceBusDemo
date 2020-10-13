@@ -1,0 +1,12 @@
+C:\CODE\AzureServiceBusDemo\performancemessagesender\bin\Debug\netcoreapp2.0\performancemessagesender.deps.json
+C:\CODE\AzureServiceBusDemo\performancemessagesender\bin\Debug\netcoreapp2.0\performancemessagesender.runtimeconfig.json
+C:\CODE\AzureServiceBusDemo\performancemessagesender\bin\Debug\netcoreapp2.0\performancemessagesender.runtimeconfig.dev.json
+C:\CODE\AzureServiceBusDemo\performancemessagesender\bin\Debug\netcoreapp2.0\performancemessagesender.dll
+C:\CODE\AzureServiceBusDemo\performancemessagesender\bin\Debug\netcoreapp2.0\performancemessagesender.pdb
+C:\CODE\AzureServiceBusDemo\performancemessagesender\obj\Debug\netcoreapp2.0\performancemessagesender.csprojAssemblyReference.cache
+C:\CODE\AzureServiceBusDemo\performancemessagesender\obj\Debug\netcoreapp2.0\performancemessagesender.AssemblyInfoInputs.cache
+C:\CODE\AzureServiceBusDemo\performancemessagesender\obj\Debug\netcoreapp2.0\performancemessagesender.AssemblyInfo.cs
+C:\CODE\AzureServiceBusDemo\performancemessagesender\obj\Debug\netcoreapp2.0\performancemessagesender.csproj.CoreCompileInputs.cache
+C:\CODE\AzureServiceBusDemo\performancemessagesender\obj\Debug\netcoreapp2.0\performancemessagesender.dll
+C:\CODE\AzureServiceBusDemo\performancemessagesender\obj\Debug\netcoreapp2.0\performancemessagesender.pdb
+C:\CODE\AzureServiceBusDemo\performancemessagesender\obj\Debug\netcoreapp2.0\performancemessagesender.genruntimeconfig.cache

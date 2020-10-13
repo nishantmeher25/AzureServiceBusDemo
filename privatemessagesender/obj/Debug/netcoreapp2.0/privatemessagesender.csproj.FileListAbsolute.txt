@@ -1,0 +1,12 @@
+C:\CODE\AzureServiceBusDemo\privatemessagesender\bin\Debug\netcoreapp2.0\privatemessagesender.deps.json
+C:\CODE\AzureServiceBusDemo\privatemessagesender\bin\Debug\netcoreapp2.0\privatemessagesender.runtimeconfig.json
+C:\CODE\AzureServiceBusDemo\privatemessagesender\bin\Debug\netcoreapp2.0\privatemessagesender.runtimeconfig.dev.json
+C:\CODE\AzureServiceBusDemo\privatemessagesender\bin\Debug\netcoreapp2.0\privatemessagesender.dll
+C:\CODE\AzureServiceBusDemo\privatemessagesender\bin\Debug\netcoreapp2.0\privatemessagesender.pdb
+C:\CODE\AzureServiceBusDemo\privatemessagesender\obj\Debug\netcoreapp2.0\privatemessagesender.csprojAssemblyReference.cache
+C:\CODE\AzureServiceBusDemo\privatemessagesender\obj\Debug\netcoreapp2.0\privatemessagesender.AssemblyInfoInputs.cache
+C:\CODE\AzureServiceBusDemo\privatemessagesender\obj\Debug\netcoreapp2.0\privatemessagesender.AssemblyInfo.cs
+C:\CODE\AzureServiceBusDemo\privatemessagesender\obj\Debug\netcoreapp2.0\privatemessagesender.csproj.CoreCompileInputs.cache
+C:\CODE\AzureServiceBusDemo\privatemessagesender\obj\Debug\netcoreapp2.0\privatemessagesender.dll
+C:\CODE\AzureServiceBusDemo\privatemessagesender\obj\Debug\netcoreapp2.0\privatemessagesender.pdb
+C:\CODE\AzureServiceBusDemo\privatemessagesender\obj\Debug\netcoreapp2.0\privatemessagesender.genruntimeconfig.cache

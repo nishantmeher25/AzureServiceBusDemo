@@ -1,0 +1,12 @@
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.deps.json
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.runtimeconfig.json
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.runtimeconfig.dev.json
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.dll
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.pdb
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.csprojAssemblyReference.cache
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.AssemblyInfoInputs.cache
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.AssemblyInfo.cs
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.csproj.CoreCompileInputs.cache
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.dll
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.pdb
+C:\CODE\AzureServiceBusDemo\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.genruntimeconfig.cache
